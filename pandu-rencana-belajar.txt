@@ -1,0 +1,9 @@
+Rencana Belajar Bulan Juli - Agustus 2024
+
+-Javascript
+-Jquery
+-Git/GitHub
+-ReactJs
+-VueJs
+-PHP
+-Laravel
